@@ -1,0 +1,14 @@
+streamlit
+opencv-python
+mtcnn
+numpy
+torch 
+torchvision
+tensorflow
+scikit-learn
+streamlit
+opencv-python 
+numpy 
+tqdm
+matplotlib
+pillow

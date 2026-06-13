@@ -1,0 +1,9 @@
+forensics_project/
+venv/
+
+__pycache__
+__pycache__/
+.idea/
+.venv/
+
+deepfake_models/
